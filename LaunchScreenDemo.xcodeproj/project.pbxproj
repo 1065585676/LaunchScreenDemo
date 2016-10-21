@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					FC6FE34D1DA0D3CF005EA73B = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 624877M2V4;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 624877M2V4;
 				INFOPLIST_FILE = LaunchScreenDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuanyuan.LaunchScreenDemo;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 624877M2V4;
 				INFOPLIST_FILE = LaunchScreenDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuanyuan.LaunchScreenDemo;
