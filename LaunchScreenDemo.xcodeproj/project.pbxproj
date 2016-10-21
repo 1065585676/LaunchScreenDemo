@@ -297,6 +297,7 @@
 				FC6FE3621DA0D3D0005EA73B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
